@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main
+{
+
+    printf(sum of a + b : % d, a + b);
+    printf(div of a / b : % d, a / b);
+    printf(mul of a * b : % d, a * b);
+    printf(sub of a - b : % d, a - b);
+
+    
